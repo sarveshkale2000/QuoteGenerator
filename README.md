@@ -1,3 +1,3 @@
-# Link for the website
+Link for the website
 
  https://sarveshkale2000.github.io/QuoteGenerator/
